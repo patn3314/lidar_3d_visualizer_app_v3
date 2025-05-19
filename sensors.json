@@ -1,0 +1,22 @@
+[
+  {
+    "id": "VLP-16",
+    "displayName": "Velodyne VLP-16",
+    "hFov": 360,
+    "vFov": 30,
+    "maxRange": 100,
+    "channels": 16,
+    "beamLayout": "verticalEven",
+    "modelFile": "assets/vlp16.glb"
+  },
+  {
+    "id": "TiM571",
+    "displayName": "SICK TiM571-9950101S01",
+    "hFov": 270,
+    "vFov": 0.5,
+    "maxRange": 25,
+    "channels": 1,
+    "beamLayout": "singlePlane",
+    "modelFile": "assets/tim571.glb"
+  }
+]
